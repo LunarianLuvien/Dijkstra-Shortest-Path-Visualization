@@ -1,2 +1,3 @@
 # Dijkstra-Shortest-Path-Visualization
-Python script for visualizing a directed graph and computing shortest paths using Matplotlib and NetworkX. Functions plot the graph with labels and weights, display shortest paths with Dijkstra's algorithm, and manage node updates.
+
+Python script visualizes directed graphs and computes shortest paths with NetworkX and Matplotlib. It plots graphs, finds paths using Dijkstra's algorithm, and updates nodes.
